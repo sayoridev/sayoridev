@@ -6,15 +6,18 @@ I like read book and lissen music, play videogames and coding (especially Doki D
  I am learning:
 
 ```
-
+Java
+JavaScript
+C++
+Kotlin
 ```
 
 My PC Specs:
 
-'''
+```
 OS: Windows 10 Home/macOS Ventura
 CPU: i5-7200U
 RAM: 12GB DDR4 2133MHz
 GPU: Intel HD Graphics 620
 GPU: AMD Radeon R5 M330
-'''
+```
