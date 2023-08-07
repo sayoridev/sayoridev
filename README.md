@@ -5,12 +5,12 @@ I like read book and lissen music, play videogames and coding (especially Doki D
 
  I am learning:
 
-'''
-C++
-Java
-JavaScript
-Kotlin
-'''
+```
+sudo pacman -S --needed base-devel
+git clone https://aur.archlinux.org/paru.git
+cd paru
+makepkg -si
+```
 
 My PC Specs:
 
