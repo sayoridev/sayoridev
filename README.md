@@ -7,7 +7,6 @@ I like read book and lissen music, play videogames and coding (especially Doki D
 
 ```
 Java
-JavaScript
 C++
 Kotlin
 ```
@@ -15,7 +14,7 @@ Kotlin
 My PC Specs:
 
 ```
-OS: Windows 10 Home/macOS Ventura
+OS: PopOS/macOS Ventura
 CPU: i5-7200U
 RAM: 12GB DDR4 2133MHz
 GPU: Intel HD Graphics 620
