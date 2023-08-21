@@ -14,7 +14,7 @@ Kotlin
 My PC Specs:
 
 ```
-OS: PopOS/macOS Ventura
+OS: PopOS/Windows 10 LTSC
 CPU: i5-7200U
 RAM: 12GB DDR4 2133MHz
 GPU: Intel HD Graphics 620
