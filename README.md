@@ -20,3 +20,4 @@ RAM: 12GB DDR4 2133MHz
 GPU: Intel HD Graphics 620
 GPU: AMD Radeon R5 M330
 ```
+my email: sayoridevUwU@gmail.com
