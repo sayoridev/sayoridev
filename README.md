@@ -14,7 +14,7 @@ Kotlin
 My PC Specs:
 
 ```
-OS: macOS Ventura
+OS: EandevourOS
 CPU: i5-7200U
 RAM: 12GB DDR4 2133MHz
 GPU: Intel HD Graphics 620
