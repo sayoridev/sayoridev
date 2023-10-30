@@ -9,15 +9,18 @@ I like read book and lissen music, play videogames and coding (especially Doki D
 Java
 C++
 Kotlin
+Flutter
+JavaScript
+Python
 ```
 
 My PC Specs:
 
 ```
-OS: EandevourOS
-CPU: i5-7200U
-RAM: 12GB DDR4 2133MHz
-GPU: Intel HD Graphics 620
-GPU: AMD Radeon R5 M330
+OS: Windows 11 Home Insider Preview
+CPU: i5-8265U
+RAM: 12GB DDR4 2400MHz
+GPU: Intel UHD Graphics 620
+GPU: Nvidia MX110
 ```
 my email: sayoridevUwU@gmail.com
