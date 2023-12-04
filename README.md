@@ -17,7 +17,7 @@ Python
 My PC Specs:
 
 ```
-OS: Windows 11 Home Insider Preview
+OS: Windows 10 LTSC
 CPU: i5-8265U
 RAM: 12GB DDR4 2400MHz
 GPU: Intel UHD Graphics 620
