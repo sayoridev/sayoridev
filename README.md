@@ -1,4 +1,4 @@
-Hi, I’m Sayori<3. i am a young developer (13 years old) 🫶
+Hi, I’m Sayori<3. i am a young developer (14 years old) 🫶
 I'm Trans(MtF)⚧️
 
 I like read book and lissen music, play videogames and coding (especially Doki Doki Literature Club)
@@ -17,7 +17,7 @@ Python
 My PC Specs:
 
 ```
-OS: Windows 10 LTSC
+OS: PopOS 22.04
 CPU: i5-8265U
 RAM: 12GB DDR4 2400MHz
 GPU: Intel UHD Graphics 620
