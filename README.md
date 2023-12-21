@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sayoridev_icons=true&theme=merko)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi, I’m Sayori<3. i am a young developer (14 years old) 🫶
 I'm Trans(MtF)⚧️
