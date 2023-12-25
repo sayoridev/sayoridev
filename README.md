@@ -19,7 +19,7 @@ Python
 My PC Specs:
 
 ```
-OS: PopOS 22.04
+OS: Windows 11 23H2
 CPU: i5-8265U
 RAM: 12GB DDR4 2400MHz
 GPU: Intel UHD Graphics 620
