@@ -19,7 +19,7 @@ Python
 My PC Specs:
 
 ```
-OS: Windows 11 23H2
+OS: Windows 10 LTSC / Ubuntu WSL
 CPU: i5-8265U
 RAM: 12GB DDR4 2400MHz
 GPU: Intel UHD Graphics 620
