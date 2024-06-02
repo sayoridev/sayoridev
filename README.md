@@ -1,12 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayoridev&show_icons=true&theme=tokyonight)
 
-Hi, I’m Sayori<3. i am a young developer (14 years old) 🫶
-I'm Trans(MtF)⚧️
-
-I like read book and lissen music, play videogames and coding (especially Doki Doki Literature Club)
-
- I am learning:
-
 ```
 Java
 C++
