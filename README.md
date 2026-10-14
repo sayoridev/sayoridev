@@ -1,9 +1,3 @@
-<!-- ============================================================
-GitHub Profile README — sayoridev (meoowchan)
-Setup: create a public repo named EXACTLY like your username
-(sayoridev/sayoridev) and put this file as README.md in it.
-============================================================ -->
-
 <div align="center">
 
 <!-- Animated typing header (demo text: change the lines to your taste) -->
@@ -26,11 +20,11 @@ Setup: create a public repo named EXACTLY like your username
 ## 🌸 about me
 
 ```yaml
-name:        sayori  (iogiocoar6)
+name:        sayori  (meoowchan)
 pronouns:    she/her
 age:         16
 based:       UTC+02:00 🌍
-focus:       low-level Linux desktop, Wayland tooling, mobile (Kotlin)
+focus:       low-level Linux desktop, Wayland tooling
 currently:   polishing rofi-wayland-hud · learning whatever breaks my system
 interests:   anime aesthetics · cute UIs · EFI chaos · over-engineering for fun
 ```
